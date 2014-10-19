@@ -189,7 +189,7 @@ judgesTitle: "Judges"
 prizesTitle: "Premios"
 prizes:
 # - {title: "3nd Place", image: "prize-2.png", info: "Camisetas"}
- - {title: "1nd Place", image: "prize-1.png", info: "Dispositivo Android Wear"}
+ - {title: "Primer Premio", image: "prize-1.png", info: "Dispositivo Android Wear"}
  - {title: "Más Twittero", image: "prize-3.png", info: "Chromecast"}
 
 # Hackathon Location Block
