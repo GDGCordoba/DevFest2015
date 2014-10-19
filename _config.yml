@@ -186,11 +186,11 @@ judgesImage: "judges.jpg"
 judgesTitle: "Judges"
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
+prizesTitle: "Premios"
 prizes:
 # - {title: "3nd Place", image: "prize-2.png", info: "Camisetas"}
  - {title: "1nd Place", image: "prize-1.png", info: "Dispositivo Android Wear"}
- - {title: "2nd Place", image: "prize-3.png", info: "Chromecast"}
+ - {title: "Más Twittero", image: "prize-3.png", info: "Chromecast"}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Localización"
