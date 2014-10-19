@@ -1,0 +1,211 @@
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+
+
+# Site Settings
+title: "GDG DevFest Córdoba 2014"
+email: "gdgcordoba@gmail.com"
+description: "Grupo para compartir, discutir y disfrutar de las tecnologías Google en Córdoba (España)"
+baseurl: ""
+url: "http://cordoba.gdgdevfest.com"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-55184854-1"
+googleAnalyticsSiteUrl: "cordoba.gdgdevfest.com"
+
+# Organizer Info
+organizerName: "GDG Córdoba"
+organizerAlternateName: "Google Developer Group Córdoba"
+organizerDescription: "Grupo para compartir, discutir y disfrutar de las tecnologías Google en Córdoba (España)"
+organizerEmail: "gdgcordoba@gmail.com"
+organizerLogo: "/img/seo/GDG_CORDOBA.svg"
+organizerLink: "https://plus.google.com/106302567584201009963/about"
+
+# Head
+metaKeywords: "evento, gdg, devfest, google, programming, android, wear, developers, chromecast"
+twitterAccount: "@GDGCordobaESP"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "https://docs.google.com/a/cosfera.es/document/d/1CZx5yEhfqFHqC5lB2DVwfK8k1nSq9_Of1NNCqdHuvW8/edit?usp=sharing"
+c4sponsorsUrl: "https://docs.google.com/a/cosfera.es/document/d/1CZx5yEhfqFHqC5lB2DVwfK8k1nSq9_Of1NNCqdHuvW8/edit?usp=sharing"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Inicio"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/hackathon/", text: "Sprint Design"}
+bottomNavigationLinks:
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entradas Gratuitas"}
+rightNavigationButtons:
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entradas Gratuitas"}
+
+# Hero Block
+heroImage: "mezquita.jpg"
+heroTitle: "GDG DevFest <typeout> 2014"
+eventDate: "31 de Octubre, 2014"
+typeoutTextValues: '"", "Córdoba", "Android", "Android Wear", "Chromecast"'
+typeoutFallback: "Córdoba"
+heroButtons:
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada gratuita"}
+
+# About Block
+aboutTitle: "Acerca de GDG DevFest Córdoba 2014"
+aboutBlock:
+ #- {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
+ #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Sprint Design", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo libre! ¿Quieres algo de trabajo en equipo un jueves? ¡Trae a tus compañeros y participa en nuestro diseño Sprint!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "150", specialCharacter: "+", info: "asistentes"}
+ - {count: "7", specialCharacter: "+", info: "horas"}
+ - {count: "3", specialCharacter: "+", info: "ponentes"}
+
+# Latest News Block
+latestNewsTitle: "Últimas noticias"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 6
+rockstarSpeakersTitle: "Ponentes"
+rockstarSpeakersButtonText: "Ver todos los ponentes"
+
+# Location Block
+locationBlockTitle: "Localización"
+eventLocationName: "coSfera"
+eventLocationLink: "http://www.cosfera.es/"
+eventStreetAddress: "Av de Cervantes, 6"
+eventAddressLocality: "Córdoba"
+eventAddressLocalityRegion: "Córdoba"
+eventPostalCode: "14008"
+eventAddressCountry: "España"
+eventStartTime: "2014-10-31T17:00"
+eventDoorTime: "17:00"
+eventEndTime: "2014-10-31T21:00"
+eventPlaceCoordinates: "37.8877222, -4.7845425"
+mapCenterCoordinates: "37.8877222, -4.7845425"
+mapMobileCenterCoordinates: "37.8877222, -4.7845425"
+
+# Venue Block
+venueBlockTitle: "Localización"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "coSfera"
+venueFeatures: ["Espacio de coworking", "Centro de Córdoba", "370 m2"]
+
+# Tweets Feed Block
+tweetsFeedImage: "templo.jpg"
+tweetsFeedTitle: "Hashtag"
+twitterHashTag: "DevFestCordoba"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+
+# Partners Block
+organizersTitle: "Organización"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Patrocina el evento"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Inscribete"
+subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+
+
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/106302567584201009963/about", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGCordobaESP", icon: "twitter"}
+ #- {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Enlaces"
+  links:
+   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacto"
+  links:
+   - {link: "mailto:gdgcordoba@gmail.com", text: "gdgcordoba@gmail.com"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Código de conducta"}
+
+# Blog
+blogTitle: "Últimas noticias"
+blogCommentsEnabled: true
+discusShortName: "devfestcordoba"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "Sobre nosotros"
+aboutUs: "Los servicios de Google se han convertido en sinónimo del internet de las cosas. El número de innovaciones tecnológicas e industrias en las que Google está creando nuevos productos es enorme. Es muy dificil conocerlos todos y por esto es que la gente ha comenzado a reunirse en pequeños grupos locales y así compartir su experiencia. Después, estos nombres han recibido el nombre de 'Google Developers Groups'. Los GDGs pueden tomar distintas formas -- desde solo unas personas visualizando unos cuantos vídeos, a grandes reuniones con demos, charlas tecnológicas, hackathons y conferencias."
+
+# Logistics Find Way Block
+findWayTitle: "¿Cómo llegar?"
+findWayDistance: "Distance"
+findWayDriving: "Coche"
+findWayWalking: "Andando"
+findWayBicycling: "Bici"
+findWayTransit: "Transporte Público"
+findWayFindFlight: "Vuelo"
+logisticsMapCenterCoordinates: "37.8877222, -4.7845425"
+logisticsMapMobileCenterCoordinates: "37.8877222, -4.7845425"
+
+# Logistics Direction Details Block
+
+
+# Hackathon
+hackathonTitle: "Sprint Design"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Nuestra temática"
+hackathonRows:
+ - {title: "Android", image: "hackathon-android.jpg", details: "El sistema operativo para móviles más famoso del mundo. Android está instalado en más mil millones de teléfonos y tablets de todo el mundo. Es personalizable y fácil de usar, y como está desarrollado por Google, los teléfonos y tablets Android funcionan a la perfección con tus aplicaciones favoritas de Google."}
+ - {title: "Android Wear", image: "hackathon-0.png", details: "Información útil cuando más la necesitas. Android Wear organiza tu información, te sugiere lo que necesitas y te lo muestra antes de que lo pidas. Consulta los mensajes de tus amigos, notificaciones de reuniones e información meteorológica actualizada de un vistazo. Solo tienes que decir 'OK Google'. Responde mensajes, chats y correos electrónicos por voz. Pregunta cosas como '¿Lloverá este fin de semana?', '¿Cuánta gente hay en Londres?'' o '¿Cómo llegar a Palacio de Deportes?' y obtén respuestas sin rodeos. Haz un seguimiento de tus objetivos con resúmenes diarios que incluyen un recuento de pasos y las pulsaciones."}
+# - {title: "", image: "world-of-content.jpg", details: "'Disponible próximamente' Esto es lo que podemos leer si accedemos a la web de Android TV. Aunque google presentó este sistema, su sdk aún no está completo y sólo podemos acceder a una preview. Aunque Google promete que con sus servicios podremos ver series del momento, clásicos del cine y vídeos virales desde Google Play, YouTube y nuestras aplicaciones favoritas. Además, los juegos de Android lucirán increíblemente bien en tu HDTV y serán aún más divertidos con un mando de juegos."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+# - {title: "3nd Place", image: "prize-2.png", info: "Camisetas"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Dispositivo Android Wear"}
+ - {title: "2nd Place", image: "prize-3.png", info: "Chromecast"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Localización"
+hackathonLocationName: "coSfera"
+hackathonLocationLink: "http://www.cosfera.es/"
+hackathonStreetAddress: "Av de Cervantes, 6"
+hackathonAddressLocality: "Córdoba"
+hackathonAddressLocalityRegion: "Córdoba"
+hackathonPostalCode: "14008"
+hackathonAddressCountry: "España"
+hackathonTimeTitle: "Hackathon"
+hackathonStartTime: "2014-10-31T17:00"
+hackathonDoorTime: "17:00"
+hackathonEndTime: "2014-10-31T21:00"
+viewOnMap: "Ver en Google Maps"
+hackathonPlaceCoordinates: "37.8877222, -4.7845425"
+hackathonMapCenterCoordinates: "37.8877222, -4.7845425"
+hackathonMapMobileCenterCoordinates: "37.8877222, -4.7845425"

@@ -1,0 +1,86 @@
+- 
+  id: 0
+  name: "Juanra"
+  surname: "Palomino"
+  title: "Organizador"
+  thumbnailUrl: juanra.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/116440339882569753169/about"}
+    - {name: "twitter", link: "https://twitter.com/juanrajarote"}
+- 
+  id: 1
+  name: "Juanfra"
+  surname: "Moreno"
+  title: "Organizador"
+  thumbnailUrl: juanfra.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+Juanframoreno"}
+    - {name: "twitter", link: "https://twitter.com/juanfra25f"}
+- 
+  id: 2
+  name: "Gonzalo"
+  surname: "Toledano"
+  title: "Organizador"
+  thumbnailUrl: gonzalo.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+GonzaloToledano"}
+    - {name: "twitter", link: "https://twitter.com/gnzlt"}
+- 
+  id: 3
+  name: "Daniel"
+  surname: "Luque"
+  title: "Colaborador"
+  thumbnailUrl: dani.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/103649111726048046145"}
+    - {name: "twitter", link: "https://twitter.com/DaniLuque20"}
+- 
+  id: 4
+  name: "Leticia"
+  surname: "Capelo"
+  title: "Colaborador"
+  thumbnailUrl: leti.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+LeticiaCapelo"}
+    - {name: "twitter", link: "https://twitter.com/letixmix"}
+- 
+  id: 5
+  name: "David"
+  surname: "Luque"
+  title: "Colaborador"
+  thumbnailUrl: david.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/113933912756820917688"}
+    - {name: "twitter", link: "https://twitter.com/TwitDavids"}
+- 
+  id: 6
+  name: "Alberto"
+  surname: "Gallego"
+  title: "Colaborador"
+  thumbnailUrl: alberto.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AlbertoGallegoCastro"}
+    - {name: "twitter", link: "https://twitter.com/AlbGC_"}
+- 
+  id: 7
+  name: "Miguel"
+  surname: "Calero"
+  title: "Colaborador"
+  thumbnailUrl: miguel.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MiguelCaleroFernandez"}
+    - {name: "twitter", link: "https://twitter.com/miguelcalero"}

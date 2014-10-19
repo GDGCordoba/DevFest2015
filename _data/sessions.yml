@@ -1,0 +1,52 @@
+-
+  id: 503
+  title: "Pizzas Time!"
+  place: "coSfera"
+  service: true
+
+-
+  id: 603
+  title: "Acreditaciones"
+  place: "Cosfera"
+  service: true
+-
+  id: 001
+  title: "Charlas"
+  description: "Introducción a los temas a tratar durante todo el devfest, incluyendo temas como Google Cloud EndPoints, Ionic, Gradle..."
+  subtype: presentation
+  #speakers: 
+  language: es
+  complexity: "Intermedia"
+
+- 
+  id: 002
+  title: "Chromecast"
+  description: "Taller enfocado al desarrollo de herramientas para Chromecast, utilizando lenguajes como JavaScript."
+  subtype: workshop
+  #speakers: [] Fernando?
+  language: es
+  complexity: "Intermedia"
+
+-
+  id: 003
+  title: "Design Sprint"
+  description: "En esta actividad se empleará el método 'Design Sprint' por grupos o individualmente para desarrollar ideas, llegando incluso a un prototipado siguiendo un patrón de necesidades. "
+  subtype: workshop
+  #speakers: 
+  language: es
+  complexity: "Básica"
+
+-
+  id: 703
+  title: "Premios"
+  place: "CoSfera"
+  service: true
+
+- 
+  id: 803
+  title: "Investiga"
+  description: "¿En este track tendrás a tu alcance varios dispositivos para descubrir, analizar y probar!"
+  subtype: workshop
+  #speakers: 
+  language: es
+  complexity: "Básica"
