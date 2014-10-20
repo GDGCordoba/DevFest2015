@@ -61,7 +61,7 @@ aboutTitle: "Acerca de GDG DevFest Córdoba 2014"
 aboutBlock:
  #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
   - {title: "Charlas", image: "conference.jpg", text: "El mayor evento de Google organizado por el Google Developers Group de tu ciudad. ¡Excelentes charlas y mucha diversión!" }
-  - {title: "Sprint Design", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo libre! ¿Quieres algo de trabajo en equipo un jueves? ¡Trae a tus compañeros y participa en nuestro diseño Sprint!" }
+  - {title: "Sprint Design", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo libre! ¿Quieres algo de trabajo en equipo un viernes? ¡Trae a tus compañeros y participa en nuestro diseño Sprint!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
