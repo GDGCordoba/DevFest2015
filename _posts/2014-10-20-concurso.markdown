@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "#Concurso"
+date:   2014-10-20 18:00:00
+isStaticPost: false
+---
+
+Como no se deben de perder las costumbres, ¡este año también tenemos concurso 'tuitero'!
+
+El premio, un chromecast. 
+¿Qué debéis hacer? Twittear con el hashtag (si, eso de la almohadilla de twitter) #DevFestCordoba. Si eres la persona que más a usado este hashtag, ganas. Así de sencillo.
+
+Pero, tenemos unas normas...
+
+Nada de usar bots o cuentas recientes, vigilaremos este dato. Sabemos que te arriesgas a un unfollow, pero esto es un concurso y debes correr el riesgo.
+Los tweets deben de contener información útil, puesto que el objetivo del hashtag, además de dar difusión al evento, es para que todos tengáis la máxima información del evento.
+
+Por último, el equipo organizativo se reserva el derecho a descalificar a cualquier participante del concurso.
+
+¡Mucha suerte a todos!

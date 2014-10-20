@@ -14,7 +14,7 @@
   title: "Charlas"
   description: "Introducción a los temas a tratar durante todo el devfest, incluyendo temas como Google Cloud EndPoints, Ionic, Gradle..."
   subtype: presentation
-  #speakers: 
+  speakers: [10,3]
   language: es
   complexity: "Intermedia"
 
@@ -23,7 +23,7 @@
   title: "Chromecast"
   description: "Taller enfocado al desarrollo de herramientas para Chromecast, utilizando lenguajes como JavaScript."
   subtype: workshop
-  #speakers: [] Fernando?
+  speakers: [10]
   language: es
   complexity: "Intermedia"
 
@@ -32,7 +32,7 @@
   title: "Design Sprint"
   description: "En esta actividad se empleará el método 'Design Sprint' por grupos o individualmente para desarrollar ideas, llegando incluso a un prototipado siguiendo un patrón de necesidades. "
   subtype: workshop
-  #speakers: 
+  speakers: [3,8,9]
   language: es
   complexity: "Básica"
 

@@ -36,3 +36,16 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/113933912756820917688/about"}
     - {name: "twitter", link: "https://twitter.com/twitdavids"}
+
+-
+  id: 10
+  name: "Fernando"
+  surname: "Hidalgo"
+  company: "Sopinet"
+  title: "Web Developer"
+  bio: "Fernando se define como un hombre inquieto, desarrollador, creativo, preguntón, músico, pensador..."
+  thumbnailUrl: david.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+FernandoHidalgo/about"}
+    - {name: "twitter", link: "https://twitter.com/hidabe"}

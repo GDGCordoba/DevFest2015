@@ -177,9 +177,10 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Nuestra temática"
 hackathonRows:
+- {title: "Spting Design", image: "sprintdesign.jpg", details: "Un Sprint Design consite en un proceso utlizado comunmente por Google para obtener nuevas ideas y prototipos. Normalmente su duración es de 5 días, pero en esta versión reducida de dos horas, agilizaremos el proceso siguiendo los pasos de Google para que podáis dar rienda suelta a vuestra imaginación."}
  - {title: "Android", image: "hackathon-android.jpg", details: "El sistema operativo para móviles más famoso del mundo. Android está instalado en más mil millones de teléfonos y tablets de todo el mundo. Es personalizable y fácil de usar, y como está desarrollado por Google, los teléfonos y tablets Android funcionan a la perfección con tus aplicaciones favoritas de Google."}
  - {title: "Android Wear", image: "hackathon-0.png", details: "Información útil cuando más la necesitas. Android Wear organiza tu información, te sugiere lo que necesitas y te lo muestra antes de que lo pidas. Consulta los mensajes de tus amigos, notificaciones de reuniones e información meteorológica actualizada de un vistazo. Solo tienes que decir 'OK Google'. Responde mensajes, chats y correos electrónicos por voz. Pregunta cosas como '¿Lloverá este fin de semana?', '¿Cuánta gente hay en Londres?'' o '¿Cómo llegar a Palacio de Deportes?' y obtén respuestas sin rodeos. Haz un seguimiento de tus objetivos con resúmenes diarios que incluyen un recuento de pasos y las pulsaciones."}
-# - {title: "", image: "world-of-content.jpg", details: "'Disponible próximamente' Esto es lo que podemos leer si accedemos a la web de Android TV. Aunque google presentó este sistema, su sdk aún no está completo y sólo podemos acceder a una preview. Aunque Google promete que con sus servicios podremos ver series del momento, clásicos del cine y vídeos virales desde Google Play, YouTube y nuestras aplicaciones favoritas. Además, los juegos de Android lucirán increíblemente bien en tu HDTV y serán aún más divertidos con un mando de juegos."}
+
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
@@ -188,7 +189,7 @@ judgesTitle: "Judges"
 # Hackathon Prizes Block
 prizesTitle: "Premios"
 prizes:
-# - {title: "3nd Place", image: "prize-2.png", info: "Camisetas"}
+ - {title: "Primeros Asistentes", image: "cardboard.jpg", info: "Cardboard"}
  - {title: "Mejor Diseño", image: "prize-2.png", info: "Dispositivo Android Wear"}
  - {title: "Más Twittero", image: "prize-3.png", info: "Chromecast"}
 
