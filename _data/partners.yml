@@ -2,16 +2,18 @@
   group: "Diamante"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Cordoba", description: "GDG Lviv - Open and volunteer geek community", link: "https://plus.google.com/106302567584201009963/about", imageUrl: "GDG-cordoba.png"}
+
 - 
   group: "Oro"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "coSfera", description: "Comunidad de gente que podría trabajar desde cualquier sitio, pero que prefiere desarrollar su trabajo acompañada.", link: "http://www.cosfera.es/", imageUrl: "logo_horizontal_cosfera.png"}
-    - {name: "Deidos", description: "Empresa situada en Córdoba especializada en diseño web, aplicaciones en la nube y marketing online", link: "http://www.deidos.com/", imageUrl: "logo_deidos.png"}
+
 - 
-  group: "Plata"
+  group: "Colaboran"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
     - {name: "coSfera", description: "Comunidad de gente que podría trabajar desde cualquier sitio, pero que prefiere desarrollar su trabajo acompañada.", link: "http://www.cosfera.es/", imageUrl: "logo_horizontal_cosfera.png", width: "120px"}
     - {name: "Deidos", description: "Empresa situada en Córdoba especializada en diseño web, aplicaciones en la nube y marketing online", link: "http://www.deidos.com/", imageUrl: "logo_deidos.png", width: "120px"}
+    - {name: "Sopinet", description: "EJECUTAMOS TU IDEA. DESARROLLAMOS SOLUCIONES SENCILLAS PARA PROBLEMAS NO TRIVIALES.", link: "http://www.sopinet.com/", imageUrl: "sopinetoliva.png", width: "120px"}
+

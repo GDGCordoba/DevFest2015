@@ -14,7 +14,7 @@
   title: "Charlas"
   description: "Introducción a los temas a tratar durante todo el devfest, incluyendo temas como Google Cloud EndPoints, Ionic, Gradle..."
   subtype: presentation
-  speakers: [10,3]
+  speakers: [10]
   language: es
   complexity: "Intermedia"
 
