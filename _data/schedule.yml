@@ -2,38 +2,38 @@
   date: "31-10-2014"
   dateReadable: "Aprende"
   tracks: 
-    - {title: "Aprende", color: "#90be4e"}
-    - {title: "Descubre", color: "#03a9f4"}
+    - {title: "Track", color: "#90be4e"}
+#    - {title: "Descubre", color: "#03a9f4"}
 
   timeslots:
     - {
     	startTime: "09:30", #Acreditaciones
     	endTime: "10:00",
-    	sessionIds: [603, 803]
+    	sessionIds: [603]
     }
     - {
         startTime: "10:00",#Charlas
         endTime: "12:00",
-        sessionIds: [001, 803]
+        sessionIds: [001]
     }
     - {
         startTime: "12:30",#Chromecast
         endTime: "14:30",
-        sessionIds: [002, 803]
+        sessionIds: [002]
     }
     - {
     	startTime: "14:30",#Almuerzo
     	endTime: "16:30",
-    	sessionIds: [503, 803]
+    	sessionIds: [503]
     }
     - {
     	startTime: "16:30",#Design Sprint
     	endTime: "18:30",
-    	sessionIds: [003, 803]
+    	sessionIds: [003]
     }
     - {
         startTime: "18:30",#Premios
         endTime: "19:00",
-        sessionIds: [703, 803]
+        sessionIds: [703]
     }
 
