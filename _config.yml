@@ -7,7 +7,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 # Site Settings
 title: "GDG DevFest Córdoba 2014"
 email: "gdgcordoba@gmail.com"
-description: "Los GDG DevFest son eventos a gran escala dirigidos por la comunidad y para la comunidad que se celebran anualmente por todo el mundo"
+description: "Grupo para compartir, discutir y disfrutar de las tecnologías Google en Córdoba (España)"
 baseurl: ""
 url: "http://cordoba.gdgdevfest.com"
 permalink: "/blog/:title"
@@ -43,9 +43,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/hackathon/", text: "Sprint Design"}
 bottomNavigationLinks:
- - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuita"}
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entradas Gratuitas"}
 rightNavigationButtons:
- - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuita"}
+ - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entradas Gratuitas"}
 
 # Hero Block
 heroImage: "mezquita.jpg"
@@ -59,16 +59,16 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca de GDG DevFest Córdoba 2014"
 aboutBlock:
- - {title: "Charlas", image: "conference.jpg", text: "El mayor evento de Google organizado por el Google Developers Group de tu ciudad. ¡Excelentes charlas y mucha diversión!" }
- - {title: "Sprint Design", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo libre! ¿Quieres algo de trabajo en equipo un jueves? ¡Trae a tus compañeros y participa en nuestro diseño Sprint!" }
+ #- {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Sprint Design", image: "hackathon.jpg", text: "¡Pasa una tarde en una hackathon estilo libre! ¿Quieres algo de trabajo en equipo un jueves? ¡Trae a tus compañeros y participa en nuestro diseño Sprint!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "asistentes"}
- - {count: "8", specialCharacter: "+", info: "horas"}
- - {count: "4", specialCharacter: "+", info: "ponentes"}
+ - {count: "7", specialCharacter: "+", info: "horas"}
+ - {count: "3", specialCharacter: "+", info: "ponentes"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
@@ -133,7 +133,7 @@ footerBlocks:
  -
   title: "Enlaces"
   links:
-   - {link: "http://www.gdgspain.org/", text: "GDG Spain"}
+   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacto"
@@ -189,8 +189,7 @@ judgesTitle: "Judges"
 prizesTitle: "Premios"
 prizes:
 # - {title: "3nd Place", image: "prize-2.png", info: "Camisetas"}
- - {title: "", image: "", info: ""}
- - {title: "Mejor Diseño Android Wear", image: "prize-2.png", info: "Dispositivo Android Wear"}
+ - {title: "Primer Premio", image: "prize-1.png", info: "Dispositivo Android Wear"}
  - {title: "Más Twittero", image: "prize-3.png", info: "Chromecast"}
 
 # Hackathon Location Block
