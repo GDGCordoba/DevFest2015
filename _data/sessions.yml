@@ -45,14 +45,7 @@
   language: es
   complexity: "Intermedia"
 
--
-  id: 007
-  title: 
-  description: ""
-  subtype: "presentation"
-  speakers: [8]
-  language: es
-  complexity:"Basica"
+
 - 
   id: 002
   title: "Chromecast"
@@ -77,11 +70,4 @@
   place: "CoSfera"
   service: true
 
-- 
-  id: 803
-  title: "Investiga"
-  description: "¿En este track tendrás a tu alcance varios dispositivos para descubrir, analizar y probar!"
-  subtype: workshop
-  #speakers: 
-  language: es
-  complexity: "Básica"
+
