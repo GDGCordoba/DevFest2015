@@ -50,21 +50,6 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+FernandoHidalgo/about"}
     - {name: "twitter", link: "https://twitter.com/hidabe"}
 
-
-
--
-  id: 10
-  name: "Fernando"
-  surname: "Hidalgo"
-  company: "Sopinet"
-  title: "Web Developer"
-  bio: "Fernando se define como un hombre inquieto, desarrollador, creativo, preguntón, músico, pensador..."
-  thumbnailUrl: fernando.png
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+FernandoHidalgo/about"}
-    - {name: "twitter", link: "https://twitter.com/hidabe
-
 -
   id: 11
   name: "Juan Carlos"
@@ -101,4 +86,3 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/neonigmacdb"}
-
