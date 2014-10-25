@@ -11,48 +11,13 @@
   service: true
 -
   id: 001
-  title: "Gradle"
-  description: "Gradle es una herramienta para automatizar la construcción de nuestros proyectos, por ejemplo las tareas de compilación, testing, empaquetado y el despliegue de los mismos. Es muy flexible para la configuración, pero además ya tiene armadas las tareas para las mayoría de los proyectos por default. Esta herramienta es usado por grandes proyecto “Open Source” como “Spring”, “Hibernate”, y “Grails”. (También lo usan empresas como “LinkedIn” para sus proyectos)"
+  title: "Charlas"
+  description: "Introducción a los temas a tratar durante todo el devfest, incluyendo temas como Google Cloud EndPoints, Ionic, Gradle..."
   subtype: presentation
   speakers: [10]
   language: es
   complexity: "Intermedia"
 
--
-  id: 004
-  title:"BLE + Android"
-  description:"Bluetooth 4.0 Low Energy es una modificación del Bluetooth 4.0 original reduciendo el consumo de energía sin afectar excesivamente al ancho de banda y al alcance la señal. Este nuevo protocolo está soportado en Android desde la versión 4.3 Jelly Bean para aumentar la duración de la batería de accesorios como teclados o los cuantificadores personales que últimamente están cobrando más relevancia."
-  subtype: presentation
-  speakers: [11]
-  language: es
-  complexity: "Intermedia"
-
--
-  id: 005
-  title: Ionic
-  description:"Ionic es un framework gratuito y open source para el desarrollo de aplicaciones híbridas (nativas y móviles) basadas en HTML5, CSS y JS. Está construido con  Sass y optimizado con AngularJS."
-  subtype: presentation
-  speakers: [12]
-  language: es
-  complexity: "Intermedia"
-
--
-  id: 006
-  title: "Raspberry Pi + NFC + Android"
-  description: "Raspberry Pi es un ordenador de placa reducida o (placa única) (SBC) de bajo coste, desarrollado en Reino Unido por la Fundación Raspberry Pi, con el objetivo de estimular la enseñanza de ciencias de la computación en las escuelas. Aunque su uso ha variado mucho del planteado originalmente. En esta charla, por ejemplo, veremos sus utilidades al conectarle una placa NFC."
-  subtype: presentation
-  speakers: [13]
-  language: es
-  complexity: "Intermedia"
-
--
-  id: 007
-  title: 
-  description: ""
-  subtype: "presentation"
-  speakers: [8]
-  language: es
-  complexity:"Basica"
 - 
   id: 002
   title: "Chromecast"
