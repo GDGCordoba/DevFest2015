@@ -45,15 +45,15 @@
         endTime: "14:30",
         sessionIds: [007]
     }
+        - {
+    	startTime: "14:30",#Almuerzo
+    	endTime: "16:30",
+    	sessionIds: [503]
+    }
     - {
         startTime: "16:30",#Chromecast
         endTime: "17:30",
         sessionIds: [002]
-    }
-    - {
-    	startTime: "14:30",#Almuerzo
-    	endTime: "16:30",
-    	sessionIds: [503]
     }
     - {
     	startTime: "17:30",#Sprint Design
