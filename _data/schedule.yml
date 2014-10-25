@@ -7,8 +7,13 @@
   timeslots:
     - {
     	startTime: "09:30", #Acreditaciones
-    	endTime: "10:00",
+    	endTime: "09:40",
     	sessionIds: [603]
+    }
+    - {
+    	startTime: "09:40", #Presentación GDG
+    	endTime: "09:45",
+    	sessionIds: [903]
     }
     - {
         startTime: "09:45",#Gradle

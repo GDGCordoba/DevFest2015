@@ -5,6 +5,12 @@
   service: true
 
 -
+  id: 903
+  title: "Bienvenida y GDG Córdoba"
+  place: "coSfera"
+  service: true
+
+-
   id: 603
   title: "Acreditaciones"
   place: "Cosfera"
