@@ -1,40 +1,4 @@
 - 
-  id: 0
-  name: "Juanra"
-  surname: "Palomino"
-  title: "Organizador"
-  thumbnailUrl: juanra.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/116440339882569753169/about"}
-    - {name: "twitter", link: "https://twitter.com/juanrajarote"}
-- 
-  id: 1
-  name: "Juanfra"
-  surname: "Moreno"
-  title: "Organizador"
-  thumbnailUrl: juanfra.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+Juanframoreno"}
-    - {name: "twitter", link: "https://twitter.com/juanfra25f"}
-- 
-
-  id: 2
-  name: "Daniel"
-  surname: "Luque"
-  title: "Colaborador"
-  thumbnailUrl: dani.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/103649111726048046145"}
-    - {name: "twitter", link: "https://twitter.com/DaniLuque20"}
-
-- 
   id: 3
   name: "Gonzalo"
   surname: "Toledano"
@@ -47,25 +11,12 @@
     - {name: "twitter", link: "https://twitter.com/gnzlt"}
 
 - 
-  id: 4
-  name: "Leticia"
-  surname: "Capelo"
-  company: "GDG Cordoba"
-  title: "Android Developer"
-  thumbnailUrl: leti.jpg
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+LeticiaCapelo/about"}
-    - {name: "twitter", link: "https://twitter.com/letixmix"}
-
--
-  id: 5
+  id: 8
   name: "David"
-  surname: "Luque"
-  company: "GDG Cordoba"
-  title: "Android Developer"
-  thumbnailUrl: david.jpg
-  rockstar: false
+  surname: "Merinas"
+  title: "Colaborador"
+  thumbnailUrl: davidm.jpg
+  subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/113933912756820917688/about"}
-    - {name: "twitter", link: "https://twitter.com/twitdavids"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+DavidMerinas/"}
+    - {name: "twitter", link: "https://twitter.com/davidmerinas"}

@@ -84,3 +84,14 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MiguelCaleroFernandez"}
     - {name: "twitter", link: "https://twitter.com/miguelcalero"}
+
+- 
+  id: 8
+  name: "David"
+  surname: "Merinas"
+  title: "Colaborador"
+  thumbnailUrl: davidm.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+DavidMerinas/"}
+    - {name: "twitter", link: "https://twitter.com/davidmerinas"}
