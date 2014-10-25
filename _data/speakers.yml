@@ -86,3 +86,29 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/neonigmacdb"}
+
+-
+  id: 14
+  name: "Jorge"
+  surname: "Rider"
+  company: "Redsys España"
+  title: "Developer"
+  bio: "Desarrollo de aplicaciones móviles. Mi objetivo es realizar aplicaciones de calidad para cualquier plataforma móvil utilizando los conocimientos obtenidos y ampliar igualmente mis conocimientos."
+  thumbnailUrl: jrider.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/jorider83"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/108071084061042973694/about"}
+
+-
+  id: 15
+  name: "Javier"
+  surname: "Velasco"
+  company: "Traity"
+  title: "Developer"
+  bio: "Aspiring web craftsman • Film, music & comic lover • Trying to travel the world..."
+  thumbnailUrl: jvelasco.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/javivelasco"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+FcoJavierVelascoArjona/about"}

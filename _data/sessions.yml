@@ -45,6 +45,32 @@
   language: es
   complexity: "Intermedia"
 
+-
+  id: 007 
+  title: "Polymer"
+  description: "Polymer es una biblioteca que utiliza las últimas tecnologías web que permite crear elementos HTML personalizados. Es posible construir desde un botón hasta una completa aplicación, que además funciona en móviles y equipos de escritorio."
+  subtype: presentation
+  speakers: [15] #Javier Velasco
+  language: es
+  complexity: "Intermedia"
+
+-
+  id: 008 
+  title: "Google Cloud Messaging"
+  description: "El servicio de mensajería en la nube de Google (GCM) es un servicio gratuito que permite que los desarrolladores envíen datos de los servidores a sus aplicaciones de Android. Puede tratarse de un mensaje corto que indique a la aplicación de Android que hay datos nuevos que se pueden recuperar del servidor (por ejemplo, una película subida por un amigo) o puede ser un mensaje que contenga hasta 4 KB de datos de carga (de esta forma, aplicaciones como los mensajes instantáneos pueden consumir el mensaje directamente)."
+  subtype: presentation
+  speakers: [14]
+  language: es
+  complexity: "Intermedia"
+
+-
+  id: 009
+  title: "Tech&Ladies"
+  description: "En un mundo donde la representación mediática es tan crucial, tener a mano una representación de mujeres emprendedoras y tecnológicas es como tener un camino que pueda guiar a otras mujeres, a encontrar en este ámbito su vocación. Dar visibilidad a las mujeres que trabajan con la tecnología rompiendo con el paradigma actual es nuestro objetivo."
+  subtype: presentation
+  speakers: [8]
+  language: es
+  complexity: "Básica"
 
 - 
   id: 002
