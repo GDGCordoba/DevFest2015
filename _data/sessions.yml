@@ -20,8 +20,8 @@
 
 -
   id: 004
-  title:"BLE + Android"
-  description:"Bluetooth 4.0 Low Energy es una modificación del Bluetooth 4.0 original reduciendo el consumo de energía sin afectar excesivamente al ancho de banda y al alcance la señal. Este nuevo protocolo está soportado en Android desde la versión 4.3 Jelly Bean para aumentar la duración de la batería de accesorios como teclados o los cuantificadores personales que últimamente están cobrando más relevancia."
+  title: "BLE + Android"
+  description: "Bluetooth 4.0 Low Energy es una modificación del Bluetooth 4.0 original reduciendo el consumo de energía sin afectar excesivamente al ancho de banda y al alcance la señal. Este nuevo protocolo está soportado en Android desde la versión 4.3 Jelly Bean para aumentar la duración de la batería de accesorios como teclados o los cuantificadores personales que últimamente están cobrando más relevancia."
   subtype: presentation
   speakers: [11]
   language: es
@@ -29,8 +29,8 @@
 
 -
   id: 005
-  title: Ionic
-  description:"Ionic es un framework gratuito y open source para el desarrollo de aplicaciones híbridas (nativas y móviles) basadas en HTML5, CSS y JS. Está construido con  Sass y optimizado con AngularJS."
+  title: "Ionic"
+  description: "Ionic es un framework gratuito y open source para el desarrollo de aplicaciones híbridas (nativas y móviles) basadas en HTML5, CSS y JS. Está construido con  Sass y optimizado con AngularJS."
   subtype: presentation
   speakers: [12]
   language: es
