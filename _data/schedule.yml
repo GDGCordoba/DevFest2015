@@ -45,7 +45,7 @@
         endTime: "14:30",
         sessionIds: [007]
     }
-        - {
+    - {
     	startTime: "14:30",#Almuerzo
     	endTime: "16:30",
     	sessionIds: [503]
