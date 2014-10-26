@@ -112,3 +112,40 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/javivelasco"}
     - {name: "google-plus", link: "https://plus.google.com/u/0/+FcoJavierVelascoArjona/about"}
+
+-
+  id: 16
+  name: "David"
+  surname: "Moreno"
+  company: "Sopinet"
+  title: "Developer"
+  bio: "Programador en Sopinet y guitarrista aficionado"
+  thumbnailUrl: davidmoreno.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/DavidWebMoreno"}
+    - {name: "google-plus", link: "https://plus.google.com/108896491031780823569/about"}
+
+-
+  id: 17
+  name: "Nacho"
+  surname: "Herrera"
+  company: "Sopinet"
+  title: "Developer"
+  bio: "Desarrollador de Aplicaciones Multiplataforma, Android y videojuegos 2D con LibGDX."
+  thumbnailUrl: nachoherrera.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/nacho-herrera/59/665/12b"}
+
+-
+  id: 18
+  name: "Alejandro"
+  surname: "Arrabal"
+  company: "Sopinet"
+  title: "Developer"
+  bio: "Desarrollador de Javascript en Sopinet."
+  thumbnailUrl: alejandroarrabal.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/alejandro-arrabal-hidalgo/79/2b0/78b"}
