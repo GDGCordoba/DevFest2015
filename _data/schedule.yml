@@ -23,12 +23,12 @@
     - {
         startTime: "10:30",#Raspberry + NFC
         endTime: "11:15",
-        sessionIds: [004]
+        sessionIds: [006]
     }
     - {
         startTime: "11:15", #BLE + Android
         endTime: "11:30",
-        sessionIds: [005]
+        sessionIds: [004]
     }
     - {
         startTime: "11:30", #Tech&Ladies
@@ -38,7 +38,7 @@
     - {
         startTime: "12:00", #Ionic
         endTime: "12:45",
-        sessionIds: [006]
+        sessionIds: [005]
     }
     - {
         startTime: "12:45", #Cloud Messaging
