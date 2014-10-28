@@ -66,9 +66,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "asistentes"}
+ - {count: "100", specialCharacter: "+", info: "asistentes"}
  - {count: "8", specialCharacter: "+", info: "horas"}
- - {count: "4", specialCharacter: "+", info: "ponentes"}
+ - {count: "12", specialCharacter: "+", info: "ponentes"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
@@ -81,19 +81,19 @@ rockstarSpeakersButtonText: "Ver todos los ponentes"
 
 # Location Block
 locationBlockTitle: "Localización"
-eventLocationName: "coSfera"
-eventLocationLink: "http://www.cosfera.es/"
-eventStreetAddress: "Av de Cervantes, 6"
+eventLocationName: "Salón de Actos de la Facultad de Derecho"
+eventLocationLink: "http://www.uco.es/derechoyccee/"
+eventStreetAddress: "C/ Puerta Nueva, S/N"
 eventAddressLocality: "Córdoba"
 eventAddressLocalityRegion: "Córdoba"
-eventPostalCode: "14008"
+eventPostalCode: "14002"
 eventAddressCountry: "España"
-eventStartTime: "2014-10-31T17:00"
-eventDoorTime: "17:00"
-eventEndTime: "2014-10-31T21:00"
-eventPlaceCoordinates: "37.8877222, -4.7845425"
-mapCenterCoordinates: "37.8877222, -4.7845425"
-mapMobileCenterCoordinates: "37.8877222, -4.7845425"
+eventStartTime: "2014-10-31T09:30"
+eventDoorTime: "09:30"
+eventEndTime: "2014-10-31T14:30"
+eventPlaceCoordinates: "37.8854881,-4.7677038"
+mapCenterCoordinates: "37.8854881,-4.7677038"
+mapMobileCenterCoordinates: "37.8854881,-4.7677038"
 
 # Venue Block
 venueBlockTitle: "Localización"
@@ -101,7 +101,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "coSfera"
+venueTitle: "Sprint Design en coSfera"
 venueFeatures: ["Espacio de coworking", "Centro de Córdoba", "370 m2"]
 
 # Tweets Feed Block
@@ -164,8 +164,8 @@ findWayWalking: "Andando"
 findWayBicycling: "Bici"
 findWayTransit: "Transporte Público"
 findWayFindFlight: "Vuelo"
-logisticsMapCenterCoordinates: "37.8877222, -4.7845425"
-logisticsMapMobileCenterCoordinates: "37.8877222, -4.7845425"
+logisticsMapCenterCoordinates: "37.8854881,-4.7677038"
+logisticsMapMobileCenterCoordinates: "37.8854881,-4.7677038"
 
 # Logistics Direction Details Block
 
@@ -202,10 +202,10 @@ hackathonAddressLocality: "Córdoba"
 hackathonAddressLocalityRegion: "Córdoba"
 hackathonPostalCode: "14008"
 hackathonAddressCountry: "España"
-hackathonTimeTitle: "Hackathon"
-hackathonStartTime: "2014-10-31T17:00"
-hackathonDoorTime: "17:00"
-hackathonEndTime: "2014-10-31T21:00"
+hackathonTimeTitle: "Sprint Design"
+hackathonStartTime: "2014-10-31T16:30"
+hackathonDoorTime: "16:30"
+hackathonEndTime: "2014-10-31T20:00"
 viewOnMap: "Ver en Google Maps"
 hackathonPlaceCoordinates: "37.8877222, -4.7845425"
 hackathonMapCenterCoordinates: "37.8877222, -4.7845425"
