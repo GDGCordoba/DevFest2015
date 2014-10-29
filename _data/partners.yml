@@ -6,10 +6,10 @@
 - 
   group: "Oro"
   elements: 
-    - {name: "Consejo Social", description: "Consejo Social UCO", link: "http://www.uco.es/organizacion/consejosocial/", imageUrl: "consejosocial.jpg"}
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "coSfera", description: "Comunidad de gente que podría trabajar desde cualquier sitio, pero que prefiere desarrollar su trabajo acompañada.", link: "http://www.cosfera.es/", imageUrl: "logo_horizontal_cosfera.png"}
     - {name: "UCO Universidad de Cordoba", description: "UCO Universidad de Córdoba", link: "www.uco.es", imageUrl: "uco.png"}
+    - {name: "Consejo Social", description: "Consejo Social UCO", link: "http://www.uco.es/organizacion/consejosocial/", imageUrl: "logoCS.jpg"}
     - {name: "Don Folio", description: "Copistería Don Folio", link: "http://www.donfolio.com/", imageUrl: "donfolio.jpg"}
 
 
