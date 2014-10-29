@@ -119,7 +119,7 @@
   surname: "Moreno"
   company: "Sopinet"
   title: "Developer"
-  bio: "Programador en Sopinet y guitarrista aficionado"
+  bio: "David actualmente se dedica al desarrollo de aplicaciones Android en Sopinet. Entusiasta de la tecnología y la música."
   thumbnailUrl: davidmoreno.jpg
   rockstar: false
   social: 
@@ -137,6 +137,7 @@
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/pub/nacho-herrera/59/665/12b"}
+    - {name: "twitter", link: "https://twitter.com/ihariza"}
 
 -
   id: 18
@@ -144,8 +145,9 @@
   surname: "Arrabal"
   company: "Sopinet"
   title: "Developer"
-  bio: "Desarrollador de Javascript en Sopinet."
+  bio: Programador y desarrollador de aplicaciones web (Javascript; symfony2; html5; css3...) Actualmente trabajo en Sopinet y curso el ultimo año de Ingeniería Técnica en informática de Gestión. Me encanta leer buscar y aprender. Siempre me guió por la máxima: mejorar es el único camino."
   thumbnailUrl: alejandroarrabal.jpg
   rockstar: false
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/pub/alejandro-arrabal-hidalgo/79/2b0/78b"}
+    - {name: "google-plus", link: "https://plus.google.com/+AlejandroArrabal1986"}
