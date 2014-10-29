@@ -189,7 +189,7 @@ judgesTitle: "Judges"
 # Hackathon Prizes Block
 prizesTitle: "Premios"
 prizes:
- - {title: "Primeros Asistentes", image: "cardboard.jpg", info: "Cardboard"}
+ - {title: "Equipo Ganador", image: "cardboard.jpg", info: "Cardboard"}
  - {title: "Mejor Diseño", image: "prize-2.png", info: "Dispositivo Android Wear"}
  - {title: "Más Twittero", image: "prize-3.png", info: "Chromecast"}
 
