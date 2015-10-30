@@ -33,10 +33,22 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "twitter", link: "https://twitter.com/TwitDavids"}
-- 
 
 - 
   id: 3
+  name: "David"
+  surname: "Peralvo"
+  title: "Organizador"
+  thumbnailUrl: david_peralvo.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Peralvo_93"}
+- 
+
+- 
+  id: 4
   name: "Gonzalo"
   surname: "Toledano"
   title: "Organizador"
@@ -48,7 +60,7 @@
     - {name: "twitter", link: "https://twitter.com/gnzlt"}
 
 - 
-  id: 4
+  id: 5
   name: "José Manuel"
   surname: "Carretero"
   title: "Organizador"
@@ -60,7 +72,19 @@
     - {name: "twitter", link: "https://twitter.com/JosManu1992"}
 
 - 
-  id: 5
+  id: 6
+  name: "Juan Carlos"
+  surname: "Rodríguez"
+  title: "Organizador"
+  thumbnailUrl: juan_carlos.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/kober001"}
+
+- 
+  id: 7
   name: "Miguel"
   surname: "Calero"
   title: "Organizador"
