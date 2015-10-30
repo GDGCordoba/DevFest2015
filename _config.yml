@@ -88,9 +88,9 @@ eventAddressCountry: "España"
 eventStartTime: "2015-11-06T09:30"
 eventDoorTime: "09:30"
 eventEndTime: "2015-11-06T19:00"
-eventPlaceCoordinates: "37.884903,-4.787322"
-mapCenterCoordinates: "37.884903,-4.787322"
-mapMobileCenterCoordinates: "37.884903,-4.787322"
+eventPlaceCoordinates: "37.8847436,-4.7880113"
+mapCenterCoordinates: "37.8847436,-4.7880113"
+mapMobileCenterCoordinates: "37.8847436,-4.7880113"
 
 # Venue Block
 venueBlockTitle: "Localización"
@@ -161,8 +161,8 @@ findWayWalking: "Andando"
 findWayBicycling: "Bici"
 findWayTransit: "Transporte Público"
 findWayFindFlight: "Vuelo"
-logisticsMapCenterCoordinates: "37.884903,-4.787322"
-logisticsMapMobileCenterCoordinates: "37.884903,-4.787322"
+logisticsMapCenterCoordinates: "37.8847436,-4.7880113"
+logisticsMapMobileCenterCoordinates: "37.8847436,-4.7880113"
 
 # Logistics Direction Details Block
 
