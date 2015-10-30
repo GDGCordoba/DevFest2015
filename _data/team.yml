@@ -61,7 +61,7 @@
 
 - 
   id: 5
-  name: "José Manuel"
+  name: "José"
   surname: "Carretero"
   title: "Organizador"
   thumbnailUrl: jose_manuel.jpeg
@@ -73,7 +73,7 @@
 
 - 
   id: 6
-  name: "Juan Carlos"
+  name: "Juan"
   surname: "Rodríguez"
   title: "Organizador"
   thumbnailUrl: juan_carlos.jpg

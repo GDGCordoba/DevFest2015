@@ -1,73 +1,84 @@
-# - 
-#   date: "31-10-2014"
-#   dateReadable: "Agenda"
-#   tracks: 
-#     - {title: "Track", color: "#90be4e"}
+- 
+  date: "06-11-2015"
+  dateReadable: "Agenda"
+  tracks: 
+    - {title: "Track 1", color: "#F44336"}
+    - {title: "Track 2", color: "#2196F3"}
 
-#   timeslots:
-#     - {
-#     	startTime: "09:30", #Acreditaciones
-#     	endTime: "09:40",
-#     	sessionIds: [603]
-#     }
-#     - {
-#     	startTime: "09:40", #Presentación GDG
-#     	endTime: "09:45",
-#     	sessionIds: [903]
-#     }
-#     - {
-#         startTime: "09:45",#Gradle
-#         endTime: "10:30",
-#         sessionIds: [001]
-#     }
-#     - {
-#         startTime: "10:30",#Raspberry + NFC
-#         endTime: "11:15",
-#         sessionIds: [006]
-#     }
-#     - {
-#         startTime: "11:15", #BLE + Android
-#         endTime: "11:30",
-#         sessionIds: [004]
-#     }
-#     - {
-#         startTime: "11:30", #Tech&Ladies
-#         endTime: "12:00",
-#         sessionIds: [009]
-#     }
-#     - {
-#         startTime: "12:00", #Ionic
-#         endTime: "12:45",
-#         sessionIds: [005]
-#     }
-#     - {
-#         startTime: "12:45", #Cloud Messaging
-#         endTime: "13:30",
-#         sessionIds: [008]
-#     }
-#     - {
-#         startTime: "13:30", #Polymer
-#         endTime: "14:30",
-#         sessionIds: [007]
-#     }
-#     - {
-#     	startTime: "14:30",#Almuerzo
-#     	endTime: "16:30",
-#     	sessionIds: [503]
-#     }
-#     - {
-#         startTime: "16:30",#Chromecast
-#         endTime: "17:30",
-#         sessionIds: [002]
-#     }
-#     - {
-#     	startTime: "17:30",#Sprint Design
-#     	endTime: "19:30",
-#     	sessionIds: [003]
-#     }
-#     - {
-#         startTime: "19:30",#Premios
-#         endTime: "20:00",
-#         sessionIds: [703]
-#     }
+  timeslots:
+    - {
+    	startTime: "09:30", #Acreditaciones
+    	endTime: "09:40",
+    	sessionIds: [103]
+    }
+    - {
+    	startTime: "09:40", #Presentación GDG
+    	endTime: "09:45",
+    	sessionIds: [203],
+    }
+    - {
+      startTime: "09:45",
+      endTime: "10:30",
+      sessionIds: [011, 007]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:15",
+      sessionIds: [004, 012]
+    }
+    - {
+      startTime: "11:15",
+      endTime: "12:00",
+      sessionIds: [006, 013]
+    }
+    - {
+      startTime: "12:00", #Coffe Break
+      endTime: "12:30",
+      sessionIds: [303]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:15",
+      sessionIds: [002]
+    }
+    - {
+      startTime: "13:15",
+      endTime: "14:00",
+      sessionIds: [010]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:45",
+      sessionIds: [005]
+    }
+    - {
+    	startTime: "14:45",#Lunch Break
+    	endTime: "16:30",
+    	sessionIds: [403]
+    }
+    - {
+      startTime: "16:30",
+      endTime: "17:15",
+      sessionIds: [008]
+    }
+    - {
+      startTime: "17:15",
+      endTime: "18:00",
+      sessionIds: [014]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "18:45",
+    	sessionIds: [009]
+    }
+    - {
+      startTime: "18:45",
+      endTime: "19:30",
+      sessionIds: [001]
+    }
+    - {
+      startTime: "19:30",
+      endTime: "",
+      sessionIds: [503]
+    }
 

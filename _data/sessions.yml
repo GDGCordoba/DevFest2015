@@ -1,20 +1,33 @@
 -
-  id: 503
-  title: "Pizzas Time!"
-  place: "coSfera"
-  service: true
-
--
-  id: 903
+  id: 103
   title: "Bienvenida y GDG Córdoba"
-  place: "coSfera"
+  place: "Rectorado Universidad de Córdoba"
   service: true
 
 -
-  id: 603
+  id: 203
   title: "Acreditaciones"
-  place: "Cosfera"
+  place: "Rectorado Universidad de Córdoba"
   service: true
+
+-
+  id: 303
+  title: "Coffe Break"
+  place: "Rectorado Universidad de Córdoba"
+  service: true
+
+-
+  id: 403
+  title: "Lunch Break"
+  place: "Rectorado Universidad de Córdoba"
+  service: true
+
+-
+  id: 503
+  title: "Fin de fiesta"
+  place: "Rectorado Universidad de Córdoba"
+  service: true
+
 -
   id: 001
   title: "Persistiendo que es gerundio"
@@ -79,8 +92,6 @@
   complexity: "Intermedia"
 
 -
-
--
   id: 009
   title: "Dependency Injection on Android"
   description: "La inyección de dependencias es una de las herramientas más potentes con la que un desarrollador puede contar. Sin embargo, en Android su uso no es del todo común. Durante esta charla explicaremos qué es la inyección de dependencias, como usarla en Android y qué podemos hacer con este patrón para facilitarnos la vida."
@@ -88,8 +99,6 @@
   speakers: [10]
   language: es
   complexity: "Avanzada"
-
--
 
 -
   id: 010
@@ -110,10 +119,29 @@
   complexity: "Intermedia"
 
 -
+  id: 012
+  title: "Erlang"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: es
+  complexity: "Intermedia"
 
-  id: 703
-  title: "Premios"
-  place: "CoSfera"
-  service: true
+-
+  id: 013
+  title: "Hiram"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: es
+  complexity: "Intermedia"
 
+-
+  id: 014
+  title: "Fran"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: es
+  complexity: "Intermedia"
 
