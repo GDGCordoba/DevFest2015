@@ -22,19 +22,19 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/carlosazaustre"}
 
--
-  id: 3
-  name: "Lara"
-  surname: "Serradilla Lopez"
-  company: "Universidad de Extremadura"
-  title: "Politécnica de Cáceres"
-  bio: "Organizadora del GDG de Cáceres, y miembro de Tech&Ladies "
-  thumbnailUrl: lara_serradilla.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/Laritaa21"}
+# -
+#   id: 3
+#   name: "Lara"
+#   surname: "Serradilla Lopez"
+#   company: "Universidad de Extremadura"
+#   title: "Politécnica de Cáceres"
+#   bio: "Organizadora del GDG de Cáceres, y miembro de Tech&Ladies "
+#   thumbnailUrl: lara_serradilla.jpg
+#   rockstar: false
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/Laritaa21"}
 
--
+# -
   id: 4
   name: "Jorge"
   surname: "Castillo"

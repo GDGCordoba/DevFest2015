@@ -16,7 +16,7 @@
   name: "Daniel"
   surname: "Luque"
   title: "Organizador"
-  thumbnailUrl: dani.jpg
+  thumbnailUrl: daniel_luque.jpg
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/DaniLuque20"}
@@ -49,6 +49,18 @@
 
 - 
   id: 4
+  name: "José Manuel"
+  surname: "Carretero"
+  title: "Organizador"
+  thumbnailUrl: jose_manuel.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/JosManu1992"}
+
+- 
+  id: 5
   name: "Miguel"
   surname: "Calero"
   title: "Organizador"
