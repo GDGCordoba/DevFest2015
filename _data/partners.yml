@@ -1,20 +1,9 @@
 - 
-  group: "Diamante"
+  group: ""
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google_new.svg"}
-
-- 
-  group: "Oro"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google_new.svg"}
-    - {name: "coSfera", description: "Comunidad de gente que podría trabajar desde cualquier sitio, pero que prefiere desarrollar su trabajo acompañada.", link: "http://www.cosfera.es/", imageUrl: "logo_horizontal_cosfera.png"}
-    - {name: "UCO Universidad de Cordoba", description: "UCO Universidad de Córdoba", link: "www.uco.es", imageUrl: "uco.png"}
-
-
-- 
-  group: "Colaboran"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google_new.svg", width: "120px"}
-    - {name: "coSfera", description: "Comunidad de gente que podría trabajar desde cualquier sitio, pero que prefiere desarrollar su trabajo acompañada.", link: "http://www.cosfera.es/", imageUrl: "logo_horizontal_cosfera.png", width: "120px"}
+  - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google_new.svg"}
+  - {name: "coSfera", description: "Comunidad de gente que podría trabajar desde cualquier sitio, pero que prefiere desarrollar su trabajo acompañada.", link: "http://www.cosfera.es/", imageUrl: "logo_horizontal_cosfera.png"}
+  - {name: "UCO Universidad de Cordoba", description: "UCO Universidad de Córdoba", link: "www.uco.es", imageUrl: "uco.png"}
+  - {name: "47 Degree", description: "47 Degrees is a global consulting firm and certified Typesafe Partner specializing in", link: "http://www.47deg.com/", imageUrl: "47deg.png"}
 
 

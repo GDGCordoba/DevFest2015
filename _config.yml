@@ -49,7 +49,7 @@ rightNavigationButtons:
 heroImage: "mezquita.jpg"
 heroTitle: "GDG DevFest <typeout> 2015"
 eventDate: "6 de Noviembre, 2015"
-typeoutTextValues: '"", "Córdoba", "Android", "Functional programming", "UX", "JavaScript"'
+typeoutTextValues: '"", "Córdoba", "Android", "Functional", "UX", "JavaScript"'
 typeoutFallback: "Córdoba"
 heroButtons:
  - {link: "https://www.eventbrite.es/e/entradas-gdg-devfest-cordoba-2015-18840180487", text: "Entrada gratuita"}
