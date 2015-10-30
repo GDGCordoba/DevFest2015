@@ -92,3 +92,13 @@
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/miguelcalero"}
+
+- 
+  id: 8
+  name: "Rafa"
+  surname: "Terán"
+  title: "Organizador"
+  thumbnailUrl: rafa_teran.png
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/RTeranTo"}
