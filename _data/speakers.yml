@@ -1,153 +1,141 @@
 - 
-  id: 3
-  name: "Gonzalo"
-  surname: "Toledano"
-  company: "GDG Cordoba"
-  title: "Android Developer"
-  bio: "Gonzalo es un verdadero entusiasta de la tecnología, le encanta trabajar en áreas donde personas y máquinas se reunen para crear nuevos productos y servicios.Tiene experiencia en programación android y web. Tiene proyectos como UCOtren o Cinecor. Ha participado en diversas competiciones. Actualmente Gonzalo es estudiante de informática en la Universidad de Córdoba."
-  thumbnailUrl: gonzalo.jpg
+  id: 1
+  name: "Jorge Juan "
+  surname: "Barroso Carmona"
+  company: "Karumi"
+  title: "Android Expert"
+  bio: "Android developer muy interesado por las nuevas tecnologías, clean code y testing. Actualmente formo parte del equipo de ingeniería de Karumi como Android Expert y anteriormente formé parte del equipo de Tuenti como Senior Mobile Software Engineer. Intento mejorar cada día como ingeniero trabajando con nuevos frameworks, librerías, colaborando con la comunidad open source o aprendiendo nuevos lenguajes. El objetivo, escribir la mejor aplicación posible."
+  thumbnailUrl: jorge_barroso.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GonzaloToledano/about"}
-    - {name: "twitter", link: "https://twitter.com/gnzlt"}
+    - {name: "twitter", link: "https://twitter.com/flipper83"}
 
 - 
-  id: 8
-  name: "Leticia"
-  surname: "Capelo"
-  company: "GDG Cordoba"
-  title: "Android Developer"
-  bio: "Actualmente Leti es estudiante de informática en la Universidad de Córdoba. Tras realizar varios cursos de desarrollo Android, ha participado en la creación de varias aplicaciones. Siempre al tanto de las novedades tecnológicas, es una chica inteligente capaz de desenvolserse en cualquier entorno."
-  thumbnailUrl: leti.jpg
+  id: 2
+  name: "Carlos"
+  surname: "Azaustre"
+  company: "Chefly"
+  title: "CTO / CoFundador"
+  bio: "Desarrollador web full-stack. CTO y CoFundador en Chefly. Ingeniero en Telemática por la Universidad Carlos III de Madrid y con estudios de Máster en Tecnologías Web por la UCLM. Autor de varios libros sobre tecnologías de la web, así como del blog carlosazaustre.es dónde publica artículos y tutoriales sobre programación."
+  thumbnailUrl: carlos_azaustre.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+LeticiaCapelo/about"}
-    - {name: "twitter", link: "https://twitter.com/letixmix"}
+    - {name: "twitter", link: "https://twitter.com/carlosazaustre"}
+
+-
+  id: 3
+  name: "Lara"
+  surname: "Serradilla Lopez"
+  company: "Universidad de Extremadura"
+  title: "Politécnica de Cáceres"
+  bio: "Organizadora del GDG de Cáceres, y miembro de Tech&Ladies "
+  thumbnailUrl: lara_serradilla.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Laritaa21"}
+
+-
+  id: 4
+  name: "Jorge"
+  surname: "Castillo"
+  company: "Jobandtalent"
+  title: "Android Engineer"
+  bio: "Jorge Castillo es un desarrollador murciano con amplia experiencia en el manejo de la API gráfica de Android. Posee numerosas librerías Open Source para la capa de UI, así como algunas otras más propias de I+D (Procesadores de anotaciones). Su trabajo también está enfocado a la arquitectura, el código limpio y el testing. Actualmente forma parte del equipo de desarrollo de Job and Talent."
+  thumbnailUrl: jorge_castillo.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/jorgecastillopr"}
+
+-
+  id: 5
+  name: "Fede"
+  surname: "Fernández"
+  company: "47 Degrees"
+  title: "Scala Developer"
+  bio: "Fede is a Senior Software Engineer at 47 Degrees. He has a good experience in the Android Development and Java server programming. Actually works with Scala in several projects."
+  thumbnailUrl: fede_fernandez.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/fede_fdz"}
+
+-
+  id: 6
+  name: "Javi"
+  surname: "Pacheco"
+  company: "47 Degrees"
+  title: "Scala Developer"
+  bio: "Javi is a Senior Software Engineer at 47 Degrees. With a huge experience in the Android development, Javi accumulate a lot of experience on functional programming with Scala in server and Android development."
+  thumbnailUrl: javi_pacheco.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/javielinux"}
+
+-
+  id: 7
+  name: "Fernando"
+  surname: "Franco Giráldez"
+  company: "Telefónica I+D"
+  title: "Senior Android Developer"
+  bio: "Apasionado de las nuevas tecnologías y gadgets. Descubrió Android en 2009 y desde entonces se ha centrado en como desarrollar aplicaciones más solidas utilizando TDD, buenas prácticas y CLEAN Architecture en esa plataforma. Actualmente trabajo en Telefonica I+D como Senior Android Developer."
+  thumbnailUrl: fernando_franco.png
+  rockstar: false
+
+-
+  id: 8
+  name: "Angel "
+  surname: "Sanchez"
+  company: "SocialBro"
+  title: "Diseñador de Producto"
+  bio: "Angel Sánchez es Licenciado en Ciencias de la Comunicación Social, Especialista en Producción en Medios de Comunicación, Diseñador Gráfico Publiciario y Diseñador en Medios Digitales. Trabaja como Diseñador de Producto en SocialBro. Angel es seguidor de los métodos Lean UX, dirige un blog sobre temas de UX en español y eventualmente ofrece charlas y cursos sobre diseño de experiencia de usuario."
+  thumbnailUrl: angel_sanchez.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/angelcreative"}
 
 -
   id: 9
-  name: "David"
-  surname: "Luque"
-  company: "GDG Cordoba"
-  title: "Android Developer"
-  bio: "Actualmente David es estudiante de informática en la Universidad de Córdoba. A punto de terminar el grado, ya ha contribuido a la realización de varias aplicaciones Android, puesto que siempre ha destacado por desenvolverse bien en ambientes grupales. Realizó varios cursos de desarrollo en Android. David es un chico que siempre está interesado en conocer las últimas noticias sobre tecnología. "
-  thumbnailUrl: david.jpg
+  name: "Rafa"
+  surname: "Paradela"
+  company: "47 Degrees"
+  title: "Ingeniero de Software en Scala"
+  bio: "Ingeniero de Software en Scala en 47 Degrees. Aunque tiene mucha experiencia programando tanto en el lado del servidor como en el cliente, es un apasionado de bonitas interfaces con increíbles experiencias de usuario."
+  thumbnailUrl: rafa_paradela.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/113933912756820917688/about"}
-    - {name: "twitter", link: "https://twitter.com/twitdavids"}
+    - {name: "twitter", link: "https://twitter.com/rafaparadela"}
 
 -
   id: 10
-  name: "Fernando"
-  surname: "Hidalgo"
-  company: "Sopinet"
-  title: "Web Developer"
-  bio: "Fernando se define como un hombre inquieto, desarrollador, creativo, preguntón, músico, pensador..."
-  thumbnailUrl: fernando.png
+  name: "Pedro Vicente"
+  surname: "Gómez Sánchez"
+  company: "Karumi"
+  title: "Senior Android Developer"
+  bio: "I'm a young Android developer really focused in new technologies, clean code and testing. Right now I'm working as Mobile Software Engineer at Tuenti as part of the Messaging Team. I try to improve my knowledge about other technologies and languages everyday with a really interesting objective, write the best possible code and the most awesome application."
+  thumbnailUrl: pedro_gomez.jpeg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+FernandoHidalgo/about"}
-    - {name: "twitter", link: "https://twitter.com/hidabe"}
+    - {name: "twitter", link: "https://twitter.com/pedro_g_s"}
 
 -
   id: 11
-  name: "Juan Carlos"
-  surname: "Rodriguez"
-  company: "Iternox"
-  title: "UX Designer"
-  bio: "Aunque Juan Carlos es estudiante en la UCO, ya forma parte de Iternox, una empresa con el eslogan 'Nadie sabe lo que quiere hasta que se lo enseñas'. Juan Carlos desarrolla tanto para Android e iOS."
-  thumbnailUrl: juancarlos.png
+  name: "Jose Manuel"
+  surname: "Pereira Garcia"
+  company: "Jobandtalent"
+  title: "Android Tech Lead"
+  bio: "Android Tech Lead at jobandtalent, GDG Madrid Organizer and Founder of AndroCode. Formerly at Redbooth and GDG Barcelona. Beer Lover and Andalú. And Speaker!"
+  thumbnailUrl: jose_pereira.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "https://twitter.com/kober001"}
+    - {name: "twitter", link: "https://twitter.com/JMPergar"}
 
 -
   id: 12
-  name: "Hiram"
-  surname: "Rodriguez"
-  company: "Revolico"
-  title: "Web developer"
-  bio: "Aunque Hiram actualmente trabaja en Revolico, también lo hizo para Yaguma. Proyectos orientados a solventar las necesidades de las personas."
-  thumbnailUrl: hiram.png
+  name: "Jose Maria"
+  surname: "Rodriguez Hurtado"
+  company: "Jobandtalent"
+  title: "Android Senior Developer / Coordinador en Genbeta Dev"
+  bio: "Apasionado por la tecnología trabaja en Madrid como Android Senior Engineer en jobandtalent. Previamente ha trabajado en idealista participando en el desarrollo de la API REST, las apps móviles y en el labs de la compañía. Compagina su labor de desarrollador con la de editor en diferentes publicaciones en internet, coordina el blog de Genbeta Dev y colabora en Xataka Android."
+  thumbnailUrl: jose_rodriguez.png
   rockstar: false
   social: 
-    - {name: "twitter", link: "https://twitter.com/hcentelles"}
-    - {name: "google-plus", link: "https://plus.google.com/+HiramCentellesRodríguez/about"}
-
--
-  id: 13
-  name: "Nacho"
-  surname: "Álvarez"
-  company: "Redsys España"
-  title: "Developer"
-  bio: "Ingeniero en Informática que desde hace varios años desarrolla profesionalmente su pasión por el software libre combinando tecnologías Web, de escritorio y móviles. Entre las tecnologías que domina se encuentran Python, PHP, MySQL, REST, XMLRPC y Android. Muestra especial habilidad en la integración entre aplicaciones, destacando el desarrollo de inicio de sesión unificado para distribuciones GNU/Linux como Guadalinex Telecentros y Guadalinex Guadalinfo, así como optimización de aplicaciones Python y desarrollo de aplicaciones de variado tipo para Android."
-  thumbnailUrl: nacho.png
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/neonigmacdb"}
-
--
-  id: 14
-  name: "Jorge"
-  surname: "Rider"
-  company: "Redsys España"
-  title: "Developer"
-  bio: "Desarrollo de aplicaciones móviles. Mi objetivo es realizar aplicaciones de calidad para cualquier plataforma móvil utilizando los conocimientos obtenidos y ampliar igualmente mis conocimientos."
-  thumbnailUrl: jrider.png
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/jorider83"}
-    - {name: "google-plus", link: "https://plus.google.com/u/0/108071084061042973694/about"}
-
--
-  id: 15
-  name: "Javier"
-  surname: "Velasco"
-  company: "Traity"
-  title: "Developer"
-  bio: "Aspiring web craftsman • Film, music & comic lover • Trying to travel the world..."
-  thumbnailUrl: jvelasco.png
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/javivelasco"}
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+FcoJavierVelascoArjona/about"}
-
--
-  id: 16
-  name: "David"
-  surname: "Moreno"
-  company: "Sopinet"
-  title: "Developer"
-  bio: "David actualmente se dedica al desarrollo de aplicaciones Android en Sopinet. Entusiasta de la tecnología y la música."
-  thumbnailUrl: davidmoreno.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/DavidWebMoreno"}
-    - {name: "google-plus", link: "https://plus.google.com/108896491031780823569/about"}
-
--
-  id: 17
-  name: "Nacho"
-  surname: "Herrera"
-  company: "Sopinet"
-  title: "Developer"
-  bio: "Desarrollador de Aplicaciones Multiplataforma, Android y videojuegos 2D con LibGDX."
-  thumbnailUrl: nachoherrera.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/nacho-herrera/59/665/12b"}
-    - {name: "twitter", link: "https://twitter.com/ihariza"}
-
--
-  id: 18
-  name: "Alejandro"
-  surname: "Arrabal"
-  company: "Sopinet"
-  title: "Developer"
-  bio: "Programador y desarrollador de aplicaciones web (Javascript, symfony2, html5, css3...) Actualmente trabajo en Sopinet y curso el ultimo año de Ingeniería Técnica en informática de Gestión. Me encanta leer, buscar y aprender. Siempre me guió por la máxima: mejorar es el único camino."
-  thumbnailUrl: alejandroarrabal.jpg
-  rockstar: false
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/alejandro-arrabal-hidalgo/79/2b0/78b"}
-    - {name: "google-plus", link: "https://plus.google.com/+AlejandroArrabal1986"}
+    - {name: "twitter", link: "https://twitter.com/durbon"}

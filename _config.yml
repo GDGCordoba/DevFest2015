@@ -5,9 +5,9 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Córdoba 2014"
+title: "GDG DevFest Córdoba 2015"
 email: "gdgcordoba@gmail.com"
-description: "Evento del Google Developer Group de Córdoba 2014"
+description: "Evento del Google Developer Group de Córdoba 2015"
 baseurl: ""
 url: "http://cordoba.gdgdevfest.com"
 permalink: "/blog/:title"
@@ -37,36 +37,33 @@ c4sponsorsUrl: "https://docs.google.com/a/cosfera.es/document/d/1CZx5yEhfqFHqC5l
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/hackathon/", text: "Sprint Design"}
 bottomNavigationLinks:
- - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuita"}
+ - {link: "https://www.eventbrite.es/e/entradas-gdg-devfest-cordoba-2015-18840180487", text: "Entrada Gratuita"}
 rightNavigationButtons:
- - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada Gratuita"}
+ - {link: "https://www.eventbrite.es/e/entradas-gdg-devfest-cordoba-2015-18840180487", text: "Entrada Gratuita"}
 
 # Hero Block
 heroImage: "mezquita.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "31 de Octubre, 2014"
+heroTitle: "GDG DevFest <typeout> 2015"
+eventDate: "6 de Noviembre, 2015"
 typeoutTextValues: '"", "Córdoba", "Android", "Android Wear", "Chromecast"'
 typeoutFallback: "Córdoba"
 heroButtons:
- - {link: "http://gdgdevfestcordoba2014.eventbrite.es/", text: "Entrada gratuita"}
+ - {link: "https://www.eventbrite.es/e/entradas-gdg-devfest-cordoba-2015-18840180487", text: "Entrada gratuita"}
 
 # About Block
-aboutTitle: "Acerca de GDG DevFest Córdoba 2014"
+aboutTitle: "Acerca de GDG DevFest Córdoba 2015"
 aboutBlock:
  #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
   - {title: "Charlas", image: "conference.jpg", text: "El mayor evento de Google organizado por el Google Developers Group de tu ciudad. ¡Excelentes charlas y mucha diversión!" }
-  - {title: "Sprint Design", image: "hackathon.jpg", text: "¡Pasa una tarde en una Sprint Design estilo libre! ¿Quieres algo de trabajo en equipo un viernes? ¡Trae a tus compañeros y participa en nuestro diseño Sprint!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "asistentes"}
+ - {count: "200", specialCharacter: "+", info: "asistentes"}
  - {count: "8", specialCharacter: "+", info: "horas"}
  - {count: "12", specialCharacter: "+", info: "ponentes"}
 
@@ -81,19 +78,19 @@ rockstarSpeakersButtonText: "Ver todos los ponentes"
 
 # Location Block
 locationBlockTitle: "Localización"
-eventLocationName: "Salón de Actos de la Facultad de Derecho"
+eventLocationName: "Rectorado Universidad de Córdoba"
 eventLocationLink: "http://www.uco.es/derechoyccee/"
-eventStreetAddress: "C/ Puerta Nueva, S/N"
+eventStreetAddress: "Av Media Azahara 5, Córdoba, España "
 eventAddressLocality: "Córdoba"
 eventAddressLocalityRegion: "Córdoba"
-eventPostalCode: "14002"
+eventPostalCode: "14005"
 eventAddressCountry: "España"
-eventStartTime: "2014-10-31T09:30"
+eventStartTime: "2015-11-06T09:30"
 eventDoorTime: "09:30"
-eventEndTime: "2014-10-31T14:30"
-eventPlaceCoordinates: "37.8854881,-4.7677038"
-mapCenterCoordinates: "37.8854881,-4.7677038"
-mapMobileCenterCoordinates: "37.8854881,-4.7677038"
+eventEndTime: "2015-11-06T19:00"
+eventPlaceCoordinates: "37.884903,-4.787322"
+mapCenterCoordinates: "37.884903,-4.787322"
+mapMobileCenterCoordinates: "37.884903,-4.787322"
 
 # Venue Block
 venueBlockTitle: "Localización"
@@ -164,8 +161,8 @@ findWayWalking: "Andando"
 findWayBicycling: "Bici"
 findWayTransit: "Transporte Público"
 findWayFindFlight: "Vuelo"
-logisticsMapCenterCoordinates: "37.8854881,-4.7677038"
-logisticsMapMobileCenterCoordinates: "37.8854881,-4.7677038"
+logisticsMapCenterCoordinates: "37.884903,-4.787322"
+logisticsMapMobileCenterCoordinates: "37.884903,-4.787322"
 
 # Logistics Direction Details Block
 
@@ -203,9 +200,9 @@ hackathonAddressLocalityRegion: "Córdoba"
 hackathonPostalCode: "14008"
 hackathonAddressCountry: "España"
 hackathonTimeTitle: "Sprint Design"
-hackathonStartTime: "2014-10-31T16:30"
+hackathonStartTime: "2015-11-06T16:30"
 hackathonDoorTime: "16:30"
-hackathonEndTime: "2014-10-31T20:00"
+hackathonEndTime: "2015-11-06T20:00"
 viewOnMap: "Ver en Google Maps"
 hackathonPlaceCoordinates: "37.8877222, -4.7845425"
 hackathonMapCenterCoordinates: "37.8877222, -4.7845425"

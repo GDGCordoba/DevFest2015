@@ -17,86 +17,109 @@
   service: true
 -
   id: 001
-  title: "Gradle"
-  description: "Gradle es una herramienta para automatizar la construcción de nuestros proyectos, por ejemplo las tareas de compilación, testing, empaquetado y el despliegue de los mismos. Es muy flexible para la configuración, pero además ya tiene armadas las tareas para las mayoría de los proyectos por default. Esta herramienta es usado por grandes proyecto 'Open Source' como 'Spring', 'Hibernate', y 'Grails'. (También lo usan empresas como 'LinkedIn' para sus proyectos)"
+  title: "Persistiendo que es gerundio"
+  description: "Persistir información dentro de una aplicación es la más común de las tareas. A lo largo de esta charla hablaremos de cómo guardar información, algunos frameworks interesantes, cómo trabajar sin conexión, cómo enmascarar el acceso a los orígenes de datos desde nuestra capa de lógica de negocio."
   subtype: presentation
-  speakers: [16]
+  speakers: [1]
+  language: es
+  complexity: "Principiante"
+
+-
+  id: 002
+  title: "Primeros pasos con Angular 2"
+  description: "Angular 2 está en el horno, y los cambios con respecto a las versiones 1.x son bastantes. En esta charla veremos como iniciar un proyecto web con Angular 2 y las nuevas características que trae ECMAScript6."
+  subtype: presentation
+  speakers: [2]
+  language: es
+  complexity: "Intermedia"
+
+-
+  id: 003
+  title: "10 librerias que no deben faltar en tu app"
+  description: "La charla seria explicar las mejores lib que no deben faltar en tu app debido a sus funcionalidades y las utilidades que sacamos de ellas también puedo dar ya que soy miembro de las tech&ladies una charla sobre ello."
+  subtype: presentation
+  speakers: [3]
   language: es
   complexity: "Intermedia"
 
 -
   id: 004
-  title: "Bienvenidos iBeacons"
-  description: "Bluetooth 4.0 Low Energy es una modificación del Bluetooth 4.0 original reduciendo el consumo de energía sin afectar excesivamente al ancho de banda y al alcance la señal. Este nuevo protocolo está soportado en Android desde la versión 4.3 Jelly Bean para aumentar la duración de la batería de accesorios como teclados o los cuantificadores personales que últimamente están cobrando más relevancia. Si os quedáis con ganas de más, ¡pronto habrá un taller con esta temática!"
+  title: "Android Graphics API: Aprendiendo con AndroidFillableLoaders"
+  description: "El manejo de la API de android.graphics a bajo nivel no está muy extendido en la comunidad. Mi intención es la de profundizar en este aspecto empleando como ejemplo práctico mi librería Open Source AndroidFillableLoaders (https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) <br> Generalmente suelo contribuir bastante a la comunidad Open Source (se puede comprobar en mi perfil de GitHub). <br> Soy Android developer desde hace unos 5 añitos y actualmente formo parte del equipo de desarrolladores de Job and Talent. <br> Tengo los c4p también echados para los otros 2 eventos andaluces de ese finde."
+  subtype: presentation
+  speakers: [4]
+  language: es
+  complexity: "Avanzada"
+
+-
+  id: 005 
+  title: "Android Functional Views: A functional programming approach to transform, compose and slay Android UI Views"
+  description: "La programación funcional y reactiva se está abriendo hueco dentro de Android. Alternativas como RX nos proporcionan algunas características de este paradigma aunque no nos permite aprovechar todo el potencial de la programación funcional. <br> En esta charla descubriremos una nueva manera de gestionar nuestra UI mediante la Programación Funcional. Una aproximación para transformar, componer y tratar nuestras vistas en Android de una manera elegante. <br> Fede y Javi son Ingenieros de Software en Scala en 47 Degrees con una gran experiencia en el desarrollo de Aplicaciones Android"
+  subtype: presentation
+  speakers: [5,6]
+  language: es
+  complexity: "Intermedia"
+
+-
+  id: 006
+  title: "Reactive your Android"
+  description: "¿Quieres utilizar Rx en tu proyecto Android y no sabes como? En esta charla repasaremos los elementos más comunes cuando se trabaja con Rx y como están relacionados entre ellos con un enfoque práctico. <br> Veremos casos de usos prácticos de algunos operadores más utilizados y como podemos evitar las AsyncTask y Bus de Eventos agilizando el desarrollo."
+  subtype: presentation
+  speakers: [7]
+  language: es
+  complexity: "Intermedia"
+
+- 
+  id: 007
+  title: "UX y Big Data"
+  description: "Cómo el Big Data sirve para mejorar productos utilizando métodos de UX en el diseño de éstos."
+  subtype: presentation
+  speakers: [8]
+  language: es
+  complexity: "Avanzada"
+
+-
+  id: 008
+  title: "Scala.js : Client Side Strongly Typed Functional Programming"
+  description: "En esta charla quiero mostrar el gran potencial que nos provee Scala.js, un compilador de Scala a Javascript. Trayendo toda la magia de la programación funcional al lado del cliente como transparencia referencial, evaluación perezosa, alta abstracción, etc."
+  subtype: presentation
+  speakers: [9]
+  language: es
+  complexity: "Intermedia"
+
+-
+
+-
+  id: 009
+  title: "Dependency Injection on Android"
+  description: "La inyección de dependencias es una de las herramientas más potentes con la que un desarrollador puede contar. Sin embargo, en Android su uso no es del todo común. Durante esta charla explicaremos qué es la inyección de dependencias, como usarla en Android y qué podemos hacer con este patrón para facilitarnos la vida."
+  subtype: presentation
+  speakers: [10]
+  language: es
+  complexity: "Avanzada"
+
+-
+
+-
+  id: 010
+  title: "Limpiando espero la arquitectura que yo quiero"
+  description: "Paso a paso explico como estructurar nuestros proyectos para ir solucionando y separando problemas para ver finalmente como la foto general de lo que hemos montado coincide con los principios de Clean Architecture y como esto nos ayuda a construir un software más solido, extensible y refactorizable."
   subtype: presentation
   speakers: [11]
   language: es
   complexity: "Intermedia"
 
 -
-  id: 005
-  title: "Ionic"
-  description: "Ionic es un framework gratuito y open source para el desarrollo de aplicaciones híbridas (nativas y móviles) basadas en HTML5, CSS y JS. Está construido con  Sass y optimizado con AngularJS."
+  id: 011
+  title: "Effective Cloud Network Layer: APIs Lovers and Apps"
+  description: "Esta charla está motivada en mi trabajo realizado en idealista creado durante más de 7 años la parte API REST y el desarrollo de la app Android. <br><br> Recientemente en forma introductoria en el Mobile Day organizado por el GDG de Vigo presente una charla sobre la problemática de las apps que se conectan a internet <br> https://speakerdeck.com/durbon/el-pegamento-de-las-apps-con-internet <br><br> Previamente presenté la API de idealista y su Mobile Backend en Ironhack <br> https://speakerdeck.com/durbon/mobile-backed-app-idealista <br><br> Para el desarrollo de una app experimental, Cicleta App disponible en el Google Play utilice Google Cloud. Expondré algunos  puntos interesantes y parte de su implementación. <br> https://play.google.com/store/apps/details?id=com.durbon.cicleta <br><br> A parte de las charlas, coordino Genbeta Dev. Aquí podéis encontrar algunos de mis post <br> http://www.genbetadev.com/autor/durbon"
   subtype: presentation
   speakers: [12]
   language: es
   complexity: "Intermedia"
 
 -
-  id: 006
-  title: "Raspberry Pi + NFC + Android"
-  description: "Raspberry Pi es un ordenador de placa reducida o (placa única) (SBC) de bajo coste, desarrollado en Reino Unido por la Fundación Raspberry Pi, con el objetivo de estimular la enseñanza de ciencias de la computación en las escuelas. Aunque su uso ha variado mucho del planteado originalmente. En esta charla, por ejemplo, veremos sus utilidades al conectarle una placa NFC."
-  subtype: presentation
-  speakers: [13]
-  language: es
-  complexity: "Intermedia"
 
--
-  id: 007 
-  title: "Polymer"
-  description: "Polymer es una biblioteca que utiliza las últimas tecnologías web que permite crear elementos HTML personalizados. Es posible construir desde un botón hasta una completa aplicación, que además funciona en móviles y equipos de escritorio."
-  subtype: presentation
-  speakers: [15] #Javier Velasco
-  language: es
-  complexity: "Intermedia"
-
--
-  id: 008 
-  title: "Google Cloud Messaging"
-  description: "El servicio de mensajería en la nube de Google (GCM) es un servicio gratuito que permite que los desarrolladores envíen datos de los servidores a sus aplicaciones de Android. Puede tratarse de un mensaje corto que indique a la aplicación de Android que hay datos nuevos que se pueden recuperar del servidor (por ejemplo, una película subida por un amigo) o puede ser un mensaje que contenga hasta 4 KB de datos de carga (de esta forma, aplicaciones como los mensajes instantáneos pueden consumir el mensaje directamente)."
-  subtype: presentation
-  speakers: [14]
-  language: es
-  complexity: "Intermedia"
-
--
-  id: 009
-  title: "Tech&Ladies"
-  description: "En un mundo donde la representación mediática es tan crucial, tener a mano una representación de mujeres emprendedoras y tecnológicas es como tener un camino que pueda guiar a otras mujeres, a encontrar en este ámbito su vocación. Dar visibilidad a las mujeres que trabajan con la tecnología rompiendo con el paradigma actual es nuestro objetivo."
-  subtype: presentation
-  speakers: [8]
-  language: es
-  complexity: "Básica"
-
-- 
-  id: 002
-  title: "Chromecast"
-  description: "Taller enfocado al desarrollo de herramientas para Chromecast, utilizando lenguajes como JavaScript."
-  subtype: workshop
-  speakers: [10,17,18]
-  language: es
-  complexity: "Intermedia"
-
--
-  id: 003
-  title: "Design Sprint"
-  description: "En esta actividad se empleará el método 'Design Sprint' por grupos o individualmente para desarrollar ideas, llegando incluso a un prototipado siguiendo un patrón de necesidades. "
-  subtype: workshop
-  speakers: [3,8,9]
-  language: es
-  complexity: "Básica"
-
--
   id: 703
   title: "Premios"
   place: "CoSfera"
