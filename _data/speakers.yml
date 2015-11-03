@@ -127,3 +127,15 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/durbon"}
+
+-
+  id: 13
+  name: "Manuel Ángel"
+  surname: "Rubio Jiménez"
+  company: "Altenwald Solutions"
+  title: "CEO"
+  bio: "Apasionado de la programación, comenzó su andadura a los 12 años de edad y tras pasar por unos 20 lenguajes de programación al final se ha convertido en uno de los impulsores de Erlang/OTP en España y países de habla hispana creando Altenwald Solutions S.L. como marca y emblema de esta 'cruzada'."
+  thumbnailUrl: manuel_ruio.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mronerlang"}
