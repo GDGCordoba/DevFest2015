@@ -24,9 +24,10 @@
 
 -
   id: 503
-  title: "Fin de fiesta"
-  place: "Rectorado Universidad de Córdoba"
-  service: true
+  title: "Closing party: beers & gins"
+  description: "Hora de la fiesta: cervezas, gintonics y lo que surja! Prohibido irse a dormir pronto. <br> P.D: ¡nuestros amigos de 47 Degrees invitan a la primera ronda con sus cervezas! <br> Lugar: Malaparte (Calle Doce de Octubre, 8)"
+  language: Geek
+  complexity: "Avanzada"
 
 -
   id: 001

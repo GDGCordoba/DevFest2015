@@ -150,4 +150,9 @@
   thumbnailUrl: raul_jimenez.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "https://twitter.com/raul_en"}
+    - {name: "twitter", link: "https://twitter.com/hhkaos"}
+
+- 
+  id: 99
+  name: "Closing party: beers & gins"
+  bio: "blablabla"
