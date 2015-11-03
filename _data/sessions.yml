@@ -123,7 +123,7 @@
   title: "Manejando Millones de Usuarios Concurrentes con Erlang/OTP"
   description: "Uno de los grandes desconocidos en las empresas en boga ahora mismo en sectores como la mensajería instantánea, videojuegos y en general programación de la parte de servidor es sin duda Erlang/OTP. Esta plataforma y lenguaje ha conseguido con su paradigma que empresas como Whatsapp consigan escalar sus sistemas de miles a millones de usuarios con muy poco esfuerzo."
   subtype: presentation
-  speakers: []
+  speakers: [13]
   language: es
   complexity: "Principiante"
 
