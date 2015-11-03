@@ -145,3 +145,12 @@
   language: es
   complexity: "Intermedia"
 
+-
+  id: 015
+  title: "Mapas inteligentes con AngularJS y ArcGIS"
+  description: "¿Cómo añadir la dimensión geográfica a una aplicación escrita con AngularJS? Es decir ,¿cómo podemos incrustar mapas interactivos en una aplicación y que se hable con el resto de la interfaz de usuario? En este taller práctico veremos cómo crear mapas interactivos con capacidad de análisis usando la API JavaScript de ArcGIS usando las directivas del proyecto de Github: angular-esri-map. <br> <br> Enlaces: <br> http://js.arcgis.com/ <br> https://github.com/esri/angular-esri-map"
+  subtype: presentation
+  speakers: [14]
+  language: es
+  complexity: "Intermedia"
+

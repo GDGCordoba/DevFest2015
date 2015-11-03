@@ -139,3 +139,15 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/mronerlang"}
+
+-
+  id: 14
+  name: "Raul"
+  surname: "Jiménez"
+  company: "Esri España"
+  title: "Head of Developers and Startups"
+  bio: "Informático de formación y http://rauljimenez.info/proyectos/ (emprendedor de vocación). Desarrollador web desde 1999, en los últimos años ha trabajado en varias startups españolas además de http://www.rauljimenez.info/blog/2013/06/06/me-voy-a-silicon-valley/ (haber trabajado brevemente en 500 Startups) (Silicon Valley). Actualmente es Head of Developers and Startups en http://developers.arcgis.com/en (Esri España) + Info: GeoDevelopers.org"
+  thumbnailUrl: raul_jimenez.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/raul_en"}
