@@ -56,7 +56,7 @@
 
 -
   id: 004
-  title: "Android Graphics API: Aprendiendo con AndroidFillableLoaders"
+  title: "Android drawing & Graphics API"
   description: "El manejo de la API de android.graphics a bajo nivel no está muy extendido en la comunidad. Mi intención es la de profundizar en este aspecto empleando como ejemplo práctico mi librería Open Source AndroidFillableLoaders (https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) <br> Generalmente suelo contribuir bastante a la comunidad Open Source (se puede comprobar en mi perfil de GitHub). <br> Soy Android developer desde hace unos 5 añitos y actualmente formo parte del equipo de desarrolladores de Job and Talent. <br> Tengo los c4p también echados para los otros 2 eventos andaluces de ese finde."
   subtype: presentation
   speakers: [4]
