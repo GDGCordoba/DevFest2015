@@ -2,8 +2,8 @@
   date: "06-11-2015"
   dateReadable: "Agenda"
   tracks: 
-    - {title: "Track 1", color: "#F44336"}
-    - {title: "Track 2", color: "#2196F3"}
+    - {title: "Track 1 (Salon de Actos)", color: "#F44336"}
+    - {title: "Track 2 (Sala Mudéjar, Planta de arriba)", color: "#2196F3"}
 
   timeslots:
     - {
