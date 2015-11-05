@@ -153,3 +153,12 @@
   language: es
   complexity: "Intermedia"
 
+-
+  id: 015
+  title: "Google Container Engine, Kubernetes y Docker"
+  description: "Google Container Engine es un sistema de gestión y  orquestación basado en contenedores Docker. Nos permite gestionar automáticamente los recursos que definamos (como la CPU y la Memoria). Para ello utiliza la herramienta de orquestación Kubernetes, con la cual podemos desplegar infraestructuras cloud hibridas o públicas. (edited) <br> Daremos un introducción sobre Docker y las posibilidades que tenemos con Kubernetes y Google Container Engine."
+  subtype: presentation
+  speakers: [15]
+  language: es
+  complexity: "Intermedia"
+

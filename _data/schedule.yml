@@ -29,7 +29,7 @@
     - {
       startTime: "11:15",
       endTime: "12:00",
-      sessionIds: [006]
+      sessionIds: [006, 015]
     }
     - {
       startTime: "12:00", #Coffe Break

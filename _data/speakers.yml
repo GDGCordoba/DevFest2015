@@ -152,6 +152,18 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/hhkaos"}
 
+-
+  id: 15
+  name: "David"
+  surname: "Muñoz Padín"
+  company: "Quaip Solutions"
+  title: "CTO & Founder"
+  bio: "SysAdmin Linux , especialista en Cloud Computing y  Vozip, Docente, fundador y CTO de quaip.com. "
+  thumbnailUrl: david_muñoz.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/dperilla"}
+
 - 
   id: 99
   name: "Closing party: beers & gins"
