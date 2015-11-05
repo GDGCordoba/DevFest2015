@@ -1,6 +1,6 @@
 -
   id: 103
-  title: "Bienvenida y GDG Córdoba"
+  title: "Bienvenida"
   place: "Rectorado Universidad de Córdoba"
   service: true
 
@@ -28,6 +28,13 @@
   description: "Hora de la fiesta: cervezas, gintonics y lo que surja! Prohibido irse a dormir pronto. <br> P.D: ¡nuestros amigos de 47 Degrees invitan a la primera ronda con sus cervezas! <br> Lugar: Malaparte (Calle Doce de Octubre, 8)"
   language: Geek
   complexity: "Avanzada"
+
+-
+  id: 603
+  title: "Despedida"
+  description: ""
+  language: ""
+  complexity: ""
 
 -
   id: 001
@@ -139,15 +146,6 @@
 
 -
   id: 014
-  title: "Fran"
-  description: ""
-  subtype: presentation
-  speakers: []
-  language: es
-  complexity: "Intermedia"
-
--
-  id: 015
   title: "Mapas inteligentes con AngularJS y ArcGIS"
   description: "¿Cómo añadir la dimensión geográfica a una aplicación escrita con AngularJS? Es decir ,¿cómo podemos incrustar mapas interactivos en una aplicación y que se hable con el resto de la interfaz de usuario? En este taller práctico veremos cómo crear mapas interactivos con capacidad de análisis usando la API JavaScript de ArcGIS usando las directivas del proyecto de Github: angular-esri-map. <br> <br> Enlaces: <br> http://js.arcgis.com/ <br> https://github.com/esri/angular-esri-map"
   subtype: presentation
